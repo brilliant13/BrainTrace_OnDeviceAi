@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-AI가 학습 자료를 자동 분석하고  
+AI가 학습 자료를 자동 분석하고  1
 <br>
 <strong>당신만의 Second Brain</strong>으로 만들어드립니다.
 </div>
