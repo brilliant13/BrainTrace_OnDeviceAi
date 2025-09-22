@@ -10,7 +10,11 @@ AI가 학습 자료를 자동 분석하고
 
 ---
 ## 🧠 프로젝트 개요
-<img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" width="750" alt="best_dou"/> <br>
+<img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" width="750" alt="mumu"/>
+
+<!-- <img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" width="750" alt="best_dou"/> -->
+<br>
+
 > **“자료를 넣으면 지식이 된다. 질문하면 문맥이 답한다.”**
 
 현대의 학습 환경에서는 수많은 학습 자료(PDF, 강의 녹음, 텍스트 파일 등)가 디지털화되어 존재하지만,  
