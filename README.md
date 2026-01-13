@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-**BrainTrace**는 클라우드 없이, 기밀 데이터를 로컬에서 ‘지식’으로
+BrainTrace는 클라우드 없이, 기밀 데이터를 로컬에서 ‘지식’으로
 <br>
 <strong>당신만의 Second Brain</strong>으로 만들어드립니다.
 </div>
