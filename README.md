@@ -97,6 +97,8 @@ BrainTrace는 클라우드 없이, 기밀 데이터를 로컬에서 ‘지식’
       ↓
 [Qdrant: 벡터DB 저장]
 
+- - - - - - - - - - - - - - - - -
+
 < 질의응답(Graph-RAG) 파이프라인 >
 [사용자 질문(자연어)]
       ↓
@@ -116,13 +118,16 @@ BrainTrace는 클라우드 없이, 기밀 데이터를 로컬에서 ‘지식’
 
 | 항목 | 기술 |
 |------|------|
+| 데스크톱 앱 | Electron |
 | 프론트엔드 | React, Vite |
-| 백엔드 | FastAPI |
+| 백엔드 | Python, FastAPI |
 | 데이터베이스 | Neo4j (Embedded), SQLite |
-| 음성 인식 | OpenAI Whisper |
-| AI 모델 | llama, KoE5 |
-| RAG 구성 | 자연어 → Cypher → Graph 응답 |
-| 기타 도구 | Electron, VS Code, Git |
+| 그래프 DB | Neo4j (Knowledge Graph) |
+| 벡터 DB | Qdrant (Semantic Search / Seed Retrieval) |
+| AI 모델 | Llama 3, KoE5(임베딩), Whisper(STT) |
+| Graph-RAG 파이프라인 | KoE5 임베딩 → Qdrant 검색 → Neo4j 확장 탐색 → LLM 응답 생성 (근거 그래프 시각화) |
+| On-device 가속 | ONNX Export, AIMET Quantization, QNN Binary (BYOM), Snapdragon X Elite NPU |
+| 개발 도구 | Git, VS Code |
 
 ---
 
