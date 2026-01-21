@@ -191,18 +191,16 @@ FastAPI 기반 REST API는 아래와 같은 Swagger UI 형태로 구성되어 �
 | [![Brain-Trace 소개](https://img.youtube.com/vi/wu7_yyd0TAI/0.jpg)](https://www.youtube.com/watch?v=wu7_yyd0TAI) | [![Brain-Trace Demo](https://img.youtube.com/vi/a6mMXmOi1NU/0.jpg)](https://www.youtube.com/watch?v=a6mMXmOi1NU&t=106s) |
 
 ---
-
+<!--
 <details>
 <summary>📊 시스템 구조 패널 보기 (클릭해서 펼치기)</summary>
-
 <br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/brilliant13/portfolio/main/30%E1%84%8C%E1%85%A9_%E1%84%86%E1%85%AE%E1%84%86%E1%85%AE%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png" width="750" alt="mu_mu"/>
-  <!--<img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" alt="시스템 구조 패널" width="80%"/>-->
 </p>
-
 </details>
+-->
+<!--<img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" alt="시스템 구조 패널" width="80%"/>-->
 
 ## 🔗 참고 자료
 
